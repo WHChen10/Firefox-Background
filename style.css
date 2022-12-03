@@ -83,6 +83,7 @@ html, body {
   outline: none;
   border: none;
   background-color: #3B4252;
+  font-family: "Inconsolata", monospace;
   color: #81A1C1;
   font-size: 14px;
   padding-top: 10px;
